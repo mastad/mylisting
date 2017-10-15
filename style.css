@@ -1,0 +1,35 @@
+/*
+Theme Name:         Classiera | Shared by VestaThemes.com
+Theme URI:          http://themeforest.net/item/classiera-classified-ads-wordpress-theme/14138208?ref=JoinWebs
+Description:        Classiera Classified Ads WordPress Theme
+Version:            2.0.10
+Author:             JoinWebs
+Author URI:         http://joinwebs.com
+License:            Commercial
+Text Domain: classiera
+Theme URI:          http://themeforest.net/item/classiera-classified-ads-wordpress-theme/14138208?ref=JoinWebs
+License URI:        http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar,custom-menu, full-width-template, rtl-language-support, theme-options, translation-ready
+*/
+
+/* ---------------------------------------------------------------------------- 
+  
+  Unfortunately WordPress will require a style.css file
+  located in the theme's root folder for stuff to work.
+
+  However, we will not be using vanilla CSS. We're using Sass.
+
+  Sass is a superset of CSS that adds in amazing features
+  such as variables, nested selectors and loops. It's also
+  the easiest way to customize Foundation.
+
+  All Sass files are located in the /scss folder.
+
+  Please read the README.md file before getting started. More info on how
+  to use Sass with Foundation can be found here:
+  http://foundation.zurb.com/docs/sass.html
+
+  If you for some reason would like to write plain css instead of using Sass,
+  you could just enqueue this file (style.css) to the header and add your styles in this file
+
+---------------------------------------------------------------------------- */
